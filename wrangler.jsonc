@@ -1,8 +1,7 @@
 {
   "name": "koda-studios-web3d",
-  "compatibility_date": "2026-06-20",
+  "compatibility_date": "2026-11-01",
   "assets": {
-    "directory": "./public",
-    "not_found_handling": "404-page" 
+    "directory": "./public"
   }
 }
